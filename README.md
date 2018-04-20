@@ -1,5 +1,7 @@
 # Angular Components for [Foundation](http://foundation.zurb.com/)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/glitchtank/angular-foundation-master.svg)](https://greenkeeper.io/)
+
 ***
 
 This project is a port of the AngularUI team's excellent [angular-bootstrap](https://github.com/angular-ui/bootstrap) project for use in the [Foundation](http://foundation.zurb.com/) framework.
